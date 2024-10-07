@@ -2,3 +2,7 @@ first  work for git pull commant
 
 
 second work
+
+
+
+mr thert chage  for git push
